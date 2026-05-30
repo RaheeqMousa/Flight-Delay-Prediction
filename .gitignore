@@ -1,5 +1,5 @@
 data/raw/flight_data_2024.csv
-data/processed/processed_flights.csv
-data/sampled/sampled_flights.csv
+data/processed/
+data/sampled/
 *.ipynb_checkpoints/
 .ipynb_checkpoints/
